@@ -13,7 +13,7 @@ The list of commands and their usage is given below:
 
 ![image](https://github.com/user-attachments/assets/604f0458-66cd-45d2-9f25-576c2a81a036)
 
-ask Properties
+Task Properties
 Each task should have the following properties:
 
 id: A unique identifier for the task
